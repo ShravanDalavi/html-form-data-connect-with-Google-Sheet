@@ -52,6 +52,5 @@ Connecting HTML form data with Google Sheets simplifies data collection and mana
 •	Google Apps Script Documentation
 •	Fetch API Documentation
 •	Google Sheets API Documentation
-•	Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method https://hawksey.info/blog/2011/10/google-spreadsheets-as-a-database-insert-with-apps-script-form-postget-submit-method/
-
+•	Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method 
 

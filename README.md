@@ -24,11 +24,11 @@ The system consists of the following components:
 
 # Implementation Diagrams
 
-System Architecture Diagram 
+#System Architecture Diagram 
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet/assets/172488772/a9616167-7bf0-4c6c-a94b-bd0d7909e080)
 
  
-Data Flow Diagram 
+#Data Flow Diagram 
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet/assets/172488772/fb3528da-18e3-4334-98f6-26e55ba39c23)
 
  

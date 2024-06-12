@@ -49,8 +49,8 @@ The form is designed using HTML, and the data is sent to the Google Apps Script 
 Connecting HTML form data with Google Sheets simplifies data collection and management. Remember to handle user data securely and comply with privacy regulations.
 
 # References
-•	Google Apps Script Documentation
-•  Fetch API Documentation
-•  Google Sheets API Documentation
-•  Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method 
+1 Google Apps Script Documentation
+2 Fetch API Documentation
+3 Google Sheets API Documentation
+4 Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method 
 

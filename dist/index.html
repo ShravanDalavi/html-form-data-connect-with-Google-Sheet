@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - html form data connect with Google Sheet</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="Google Sheet.css">
+</head>
+<body>
+    <div class="container">
+        <form method="post" action="https://script.google.com/macros/s/AKfycbyXc8B1nSJntysBoZNeuumQHHe8m0A-OElYAc_kIDlRtIoED3pafatFc7GOM6ZKCPHJ/exec" name="contact-form">
+            <h4>Online Admission 2023 - 24</h4>
+            <input type="text" name="Your-name" placeholder="Name" required>
+            <input type="number" name="Your-number" placeholder="Number" pattern="[0-9]{10}" required>
+            <input type="email" name="Your-email" placeholder="Email" required>
+            <input type="text" name="School / College Name" placeholder="School / College Name" required>
+            <!DOCTYPE html>
+			<!DOCTYPE html>
+			<html lang="en">
+			<head>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<style>
+					/* Center the select element */
+					#AdmissionStandard {
+						display: block;
+						margin: 1 auto;
+						text-align: center;
+					}
+				</style>
+				<title>Select Standard</title>
+			</head>
+			<body>
+				<select name="Select Standard" class="form-style" id="AdmissionStandard" required>
+					<option value="">Select Standard</option>
+					<option value="8th">8th</option>
+					<option value="9th">9th</option>
+					<option value="10th">10th</option>
+					<option value="FYJC">FYJC</option>
+					<option value="SYJC">SYJC</option>
+					<option value="FYJC SYJC Combo">FYJC SYJC Combo</option>
+					<option value="F.Y.B.Com">F.Y.B.Com</option>
+					<option value="S.Y.B.Com">S.Y.B.Com</option>
+					<option value="T.Y.B.COM">T.Y.B.COM</option>
+				</select>
+			</body>
+			</html>
+
+			<label>
+					<input type="radio" name="Medium" value="Marathi Medium" style="height: 20px; width: 20px;"  required> Marathi Medium
+				  </label>
+				  <br>
+				  <label>
+					<input type="radio" name="Medium" value="Semi English" style="height: 20px; width: 20px;" required> Semi English
+				  </label>
+				  <br>
+				  <label>
+					<input type="radio" name="Medium" value="English Medium" style="height: 20px; width: 20px;" required> English Medium
+				  </label>
+				  <br>
+				  
+			<textarea name="Your-address" rows="" placeholder="Address"required ></textarea> 
+            
+            <script>
+                function showConfirmation() {
+                    if (document.forms["contact-form"].checkValidity()) {
+                        alert("Thank you for submitting your admission form!");
+                    } else {
+                        alert("Please fill in all required fields.");
+                    }
+                }
+            </script>
+            <input type="submit" value="Submit" id="submit" onclick="showConfirmation()">
+        </form>
+    </div>
+    <script src="Google Sheet.js"></script>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

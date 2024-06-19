@@ -16,15 +16,22 @@ The system consists of the following components:
 4.	Google Apps Script: Receives data from the form and stores it in a Google Sheet.
    
 # Components Overview
+
 •	HTML Form: Captures user data.
+
 •	CSS: Ensures the form is user-friendly and visually appealing.
+
 •	JavaScript: Manages form submission, validation, and asynchronous data transfer.
+
 •	Google Apps Script: Acts as a web service endpoint to process and store form data in Google Sheets.
 
 # Features
 •	User-Friendly Interface: Simple and clean form design.
+
 •	Real-Time Data Submission: Immediate data transfer to Google Sheets upon form submission.
+
 •	Form Validation: Ensures all required fields are filled correctly before submission.
+
 •	Confirmation Messages: Provides feedback to users upon successful submission.
 
 # Implementation Diagrams

@@ -14,6 +14,7 @@ The system consists of the following components:
 2.	CSS Styling: Enhances the visual appearance of the form.
 3.	JavaScript: Handles form submission and data transfer to Google Sheets.
 4.	Google Apps Script: Receives data from the form and stores it in a Google Sheet.
+   
 # Components Overview
 •	HTML Form: Captures user data.
 •	CSS: Ensures the form is user-friendly and visually appealing.

@@ -34,6 +34,7 @@ The system consists of the following components:
 4.	Add a Trigger: Set up a trigger for the script (e.g., on form submission).
 5.	Configure HTML Form: In your HTML form, set the action attribute to the Google Apps Script URL.
 By following these steps, you can seamlessly connect an HTML front-end with backend storage provided by Google Sheets.
+
 # System Architecture Diagram 
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet/assets/172488772/22e2213b-b493-4410-a728-d060250f9c54)
 # Data Flow Diagram 

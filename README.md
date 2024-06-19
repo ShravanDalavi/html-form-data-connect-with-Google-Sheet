@@ -26,6 +26,7 @@ The system consists of the following components:
 •	Real-Time Data Submission: Immediate data transfer to Google Sheets upon form submission.
 •	Form Validation: Ensures all required fields are filled correctly before submission.
 •	Confirmation Messages: Provides feedback to users upon successful submission.
+
 # Implementation Diagrams
 1.	Set Up Google Sheet: Create or select an existing Google Sheet where the form data will be stored.
 2.	Create Google Apps Script: In the Google Sheet, go to Extensions > Apps Script. Rename the default function and replace it with the provided script (see references for details).

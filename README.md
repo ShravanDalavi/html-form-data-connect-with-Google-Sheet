@@ -76,7 +76,7 @@ Connecting HTML form data with Google Sheets simplifies data collection and mana
 ## Contributors
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
-  - GitHub: https://github.com/ShravanDalavi
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
-  - GitHub: https://github.com/SonawaneAshwini
+  - GitHub:  [Email](https://github.com/SonawaneAshwini)

@@ -28,6 +28,7 @@ The system consists of the following components:
 •	Google Apps Script: Acts as a web service endpoint to process and store form data in Google Sheets.
 
 # Features
+
 •	User-Friendly Interface: Simple and clean form design.
 
 •	Real-Time Data Submission: Immediate data transfer to Google Sheets upon form submission.

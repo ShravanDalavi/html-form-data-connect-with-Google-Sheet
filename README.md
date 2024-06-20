@@ -74,6 +74,7 @@ Connecting HTML form data with Google Sheets simplifies data collection and mana
 •	Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method
 
 ## Contributors
+
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
   - GitHub: [Profile](https://github.com/ShravanDalavi)

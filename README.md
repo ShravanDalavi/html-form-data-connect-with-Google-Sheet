@@ -6,6 +6,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pe
 Excel sheet with LINK with code URL: https://docs.google.com/spreadsheets/d/1VaZtSJUF0CiY3PP9vRXiik7BBwmyr5x2QrXTKW9QAsA/edit?usp=sharing
 
 # Introduction
+
 Integrating HTML forms with Google Sheets allows you to collect and store user-submitted data efficiently. In this report, we’ll explore how to achieve this integration using plain HTML, JavaScript, and Google Apps Script.
 
 # System Architecture

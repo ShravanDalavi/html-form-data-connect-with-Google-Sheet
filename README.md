@@ -9,7 +9,6 @@ Excel sheet with LINK with code URL: https://docs.google.com/spreadsheets/d/1VaZ
 Integrating HTML forms with Google Sheets allows you to collect and store user-submitted data efficiently. In this report, we’ll explore how to achieve this integration using plain HTML, JavaScript, and Google Apps Script.
 
 # System Architecture
-
 The system consists of the following components:
 1.	HTML Form: The user interface for data input.
 2.	CSS Styling: Enhances the visual appearance of the form.

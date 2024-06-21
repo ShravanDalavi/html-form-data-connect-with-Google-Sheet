@@ -57,7 +57,6 @@ HTML and JavaScript Integration
 The form is designed using HTML, and the data is sent to the Google Apps Script using JavaScript's fetch API.
 
 # Conclusion
-
 Connecting HTML form data with Google Sheets simplifies data collection and management. Remember to handle user data securely and comply with privacy regulations.
 
 # References

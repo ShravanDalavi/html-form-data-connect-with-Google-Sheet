@@ -55,12 +55,14 @@ By following these steps, you can seamlessly connect an HTML front-end with back
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet/assets/172488772/fb3528da-18e3-4334-98f6-26e55ba39c23)
 
 # Integration with Google Sheets
+
 Google Apps Script
 The Google Apps Script acts as a backend for the form, receiving data and inserting it into the specified Google Sheet. The script URL and the form submission handler are configured to work seamlessly together.
 HTML and JavaScript Integration
 The form is designed using HTML, and the data is sent to the Google Apps Script using JavaScript's fetch API.
 
 # Conclusion
+
 Connecting HTML form data with Google Sheets simplifies data collection and management. Remember to handle user data securely and comply with privacy regulations.
 
 # References

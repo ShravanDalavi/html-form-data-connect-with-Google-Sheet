@@ -42,7 +42,6 @@ The system consists of the following components:
 4.	Add a Trigger: Set up a trigger for the script (e.g., on form submission).
 5.	Configure HTML Form: In your HTML form, set the action attribute to the Google Apps Script URL.
 By following these steps, you can seamlessly connect an HTML front-end with backend storage provided by Google Sheets.
-
 # System Architecture Diagram 
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet/assets/172488772/22e2213b-b493-4410-a728-d060250f9c54)
 
@@ -60,18 +59,12 @@ The form is designed using HTML, and the data is sent to the Google Apps Script 
 Connecting HTML form data with Google Sheets simplifies data collection and management. Remember to handle user data securely and comply with privacy regulations.
 
 # References
-
 •	Google Apps Script Documentation
-
-•	[Fetch API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-
+•	Fetch API Documentation
 •	Google Sheets API Documentation
-
 •	Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method
-
 ## Licence 📜
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
-
 
 ## Contributors ✨
 - Shravan Dalavi
@@ -80,6 +73,4 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
   - GitHub:  [Email](https://github.com/SonawaneAshwini)
-
-
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/html-form-data-connect-with-Google-Sheet).**
